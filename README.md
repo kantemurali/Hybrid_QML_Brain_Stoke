@@ -39,7 +39,7 @@ This hybrid approach demonstrates the potential of **quantum-enhanced models** i
 
 The classification module identifies the **type of stroke** present in CT brain images.
 
-![QML Pipeline](Hybrid_QML_pipeline.jpeg)
+![QML Pipeline](Hybrid_QML_pipeline.png)
 
 ### Steps involved:
 
