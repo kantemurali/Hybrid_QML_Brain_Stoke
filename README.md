@@ -39,7 +39,7 @@ This hybrid approach demonstrates the potential of **quantum-enhanced models** i
 
 The classification module identifies the **type of stroke** present in CT brain images.
 
-![Classification Flowchart](classification_flowchart.jpeg)
+![QML Pipeline](Hybrid_QML_pipeline.jpeg)
 
 ### Steps involved:
 
@@ -137,6 +137,7 @@ Update dataset path inside the notebook and run all cells.
 ### Confusion Matrix
 
 ![Confusion Matrix](QML_detection_matrix.png)
+![Confusion Matrix (CNN)](convnext-tiny.png)
 
 ---
 
